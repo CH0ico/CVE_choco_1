@@ -12,7 +12,7 @@
 
    ## submitter
 
-   - xxxxx
+   - Choco094late
 
    ## VERSION(S)
 
@@ -80,7 +80,7 @@
        Vector:  UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,[QUERY],NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- -
    ```
    
-   ![image-20251103192641841](assets/image-20251103192641841.png)
+   ![image-20251103192641841](./assets/image-20251103192641841.png)
    
    ## The following are screenshots of some specific information obtained from testing and running with the sqlmap tool:
    
@@ -107,7 +107,7 @@
    
    # Attack results
    
-   ![image-20251103192703812](assets/image-20251103192703812.png)
+   ![image-20251103192703812](./assets/image-20251103192703812.png)
    
    # Suggested repair
    
